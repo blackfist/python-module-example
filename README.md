@@ -9,3 +9,11 @@ interact with that service.
 
 In main.py we import each of the services and create a list of the services. Then we simply use a for loop to call the
 same set of functions for each of the services
+
+## Running the code
+```
+python main.py
+pastebin is done
+pastie is done
+kevpaste is done
+```
